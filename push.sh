@@ -26,7 +26,7 @@ echo
 # git remote add origin "xxxxxxxx"
 # git remote add origin2 "xxxxxxx"
 # git remote add origin3 "xxxxxxx"
-# If you use more than one origin, remember to uncomment and change it correctly down the lines 38 to 42
+# If you use more than one origin, remember to uncomment and change it correctly down the lines 45 to 49
 
 while true; do
     read -p "Git add current directory (./)? [y/n]  " yn
